@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000/api/v1/tasks";
+const API_URL = "https://to-do-list-api-5eba.onrender.com/api/v1/tasks";
 
 // Carregar tarefas
 async function loadTasks() {
